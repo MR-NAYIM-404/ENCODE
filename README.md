@@ -33,6 +33,7 @@ cd ENCODE
 [*] For Python2:
 
 python2 PyEnc.py
+
 [*] For Python3:
 
 python PyEnc.py
